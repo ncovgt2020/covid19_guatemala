@@ -1,0 +1,2 @@
+Instrucciones en español, ver [README_es.md](https://github.com/ncovgt2020/ncovgt2020/blob/master/README_es.md)
+Instructions in english, see [README_en.md](https://github.com/ncovgt2020/ncovgt2020/blob/master/README_en.md)
