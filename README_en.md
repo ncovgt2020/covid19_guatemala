@@ -30,6 +30,7 @@ Contains information available on each confirmed case of corona virus in Guatema
 	- 1: march 11th flight, aeromexico
 	- 2: march 6th flight, iberia
 	- 3: direct or indirect contact with patient id 2 (first fatality)
+	- 4: rescue flight march 26th, from Spain to Guatemala
 - infection_cause: reason for infection (travel, relative visit, hospital visit, contact with patient, etc) (string)
 - infected_by: id of patient from whom infection was transmitted, -99: unknown (numerical, integer)
 - confirmation_date: yy-mm-dd date when infection was confirmed, or empty field if unknown (string)
