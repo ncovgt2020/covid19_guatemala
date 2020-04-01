@@ -33,6 +33,7 @@ Contains information available on each confirmed case of corona virus in Guatema
 	- 4: rescue flight march 26th, from Spain to Guatemala
 - infection_cause: reason for infection (travel, relative visit, hospital visit, contact with patient, etc) (string)
 - infected_by: id of patient from whom infection was transmitted, -99: unknown (numerical, integer)
+- symptom_start_date: yy-mm-dd data in which symptoms started
 - confirmation_date: yy-mm-dd date when infection was confirmed, or empty field if unknown (string)
 - recovery_date: yy-mm-dd date when patient recovered, or empty field if unknown (string)
 - deceased_date: yy-mm-dd date when patient deceased, or empty field if unknown (string)

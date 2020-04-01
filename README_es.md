@@ -33,6 +33,7 @@ Contine la informacion disponible de los casos confirmados de corona virus en Gu
 	- 4: vuelo de rescate 26 de marzo, de Espana a Guatemala
 - infection_cause: causa de la infeccion (viaje, visita a familiar, visita a hospital, contacto con paciente, etc) (string)
 - infected_by: id del paciente que transmitio, -99: desconocido (numerico, entero)
+- symptom_start_date: aa-mm-dd fecha en que se comienza a observar sintomas (string)
 - confirmation_date: aa-mm-dd fecha en la que se confirmo la infeccion, o campo vacio si es desconocido (string)
 - recovery_date: aa-mm-dd fecha en la que el paciente se recupero, o campo vacio si es desconocido (string)
 - deceased_date: aa-mm-dd fecha en que el paciente fallecio, o campo vacio (string)
