@@ -40,6 +40,17 @@ Contains information available on each confirmed case of corona virus in Guatema
 - status: 0: isolated  1: recovered  2: deceased (numerical, integer)
 - source: link to the information source from wayback machine. When various sources were used, they are separated by asterisk "*" (see below) (string)
 
+
+## case_summary.csv
+
+Contains number of cases confirmed, recovered and deceased per day from March 1st, 2020
+
+- date: yy-mm-dd of the corresponding data (string)
+- confirmed: number of cases confirmed on that date (numerical, integer)
+- recovered: number of cases recovered on that date (numerical, integer)
+- deceased: number of cases deceased on that date (numerical, integer)
+- source: source of the information archived in wayback machine (string)
+
 ### [Wayback Machine](https://archive.org/web/)?
 
 Is an organization that stores the internet. To this project, serves two purposes:

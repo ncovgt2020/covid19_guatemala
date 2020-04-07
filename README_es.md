@@ -41,7 +41,15 @@ Contine la informacion disponible de los casos confirmados de corona virus en Gu
 - source: enlace a la fuente de la noticia en wayback machine. Cuando se consultaron varias fuentes, los enlaces se separan con asterisco "*" (ver abajo) (string)
 
 
+## case_summary.csv
 
+Contiene el numero de casos confirmados, recuperados y fallecidos por dia a partir del Marzo 1, 2020
+
+- date: aa-mm-dd de los datos correspondientes (string)
+- confirmed: numero de casos confirmados en ese dia (numerico, entero)
+- recovered: numero de casos recuperados en ese dia (numerico, entero)
+- deceased: numero de casos fallecidos en ese dia (numerico, entero)
+- source: fuente de la informacion, almacenado en wayback machine (string)
 
 ### [Wayback Machine](https://archive.org/web/)?
 
